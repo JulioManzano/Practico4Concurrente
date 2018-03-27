@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{09E29DD1-8609-411B-8F5A-0C11DD9F98BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2_", "Tp2_\Tp2_.csproj", "{F413388E-AC96-44C5-86E6-386DA390B621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E29DD1-8609-411B-8F5A-0C11DD9F98BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E29DD1-8609-411B-8F5A-0C11DD9F98BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E29DD1-8609-411B-8F5A-0C11DD9F98BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E29DD1-8609-411B-8F5A-0C11DD9F98BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F413388E-AC96-44C5-86E6-386DA390B621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F413388E-AC96-44C5-86E6-386DA390B621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F413388E-AC96-44C5-86E6-386DA390B621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F413388E-AC96-44C5-86E6-386DA390B621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7D9550-6DE4-4BCC-8F9B-8602CC38D76E}
+	EndGlobalSection
+EndGlobal
